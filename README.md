@@ -1,8 +1,15 @@
 # Employee Management Application
 
 ## Overview
-
 This project is a web application built using **LitElement** (JavaScript version) to assist HR staff in managing employee information. It provides functionalities to list, add, edit, and delete employee records, with a responsive design and localization support for English and Turkish.
+
+## Screenshots
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/e8d4a375-5628-4675-bfc8-f88fec53de58" />
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/6b5123b2-3ce9-4dc5-8c09-bffbd6fd920d" />
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/7f7d9c54-e6f5-4d0e-b62f-b1709701ddc9" />
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/a8cf886f-12a1-4cd1-82f8-2be4da2a0880" />
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/f9815d23-c3c7-42e7-8a17-2d81c714c2da" />
+
 
 ## Features
 
@@ -28,8 +35,12 @@ This project is a web application built using **LitElement** (JavaScript version
   - Supports English and Turkish, based on the root HTML's `lang` attribute.
 - **Testing**:
   - Tests for employee list and employee form components with at least 85% coverage.
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/aa7b4cdf-daa2-4000-84cc-6ba8c4da17df" />
+
 - **Code Quality**:
   - ESLint and Prettier for linting and formatting.
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/921ed270-744e-4043-b057-b6d1cdeb4482" />
+
 
 ## Installation
 
