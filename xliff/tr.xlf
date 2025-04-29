@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file target-language="tr" source-language="en" original="lit-localize-inputs"
+    datatype="plaintext">
+    <body>
+      <trans-unit id="s5d929ff1619ac0c9">
+        <source>Search</source>
+        <target>Ara</target>
+      </trans-unit>
+      <trans-unit id="s3db6c3999daeecdb">
+        <source>Employee List</source>
+        <target>Çalışan Listesi</target>
+      </trans-unit>
+      <trans-unit id="s32c9b3dd030fc24c">
+        <source>Add Employee</source>
+        <target>Çalışan Ekle</target>
+      </trans-unit>
+      <trans-unit id="s268ecd1cef45a9a8">
+        <source>Are you sure?</source>
+        <target>Emin misiniz?</target>
+      </trans-unit>
+      <trans-unit id="sd1621540f2ac20e6">
+        <source>Selected Employee record of</source>
+        <target>Seçilen Çalışan kaydı</target>
+      </trans-unit>
+      <trans-unit id="s628179a5df2af433">
+        <source>will be deleted</source>
+        <target>silinecek</target>
+      </trans-unit>
+      <trans-unit id="s2714784162ec459d">
+        <source>Proceed</source>
+        <target>Devam Et</target>
+      </trans-unit>
+      <trans-unit id="s2ceb11be2290bb1b">
+        <source>Cancel</source>
+        <target>İptal</target>
+      </trans-unit>
+      <trans-unit id="s2c57913ffd36d298">
+        <source>First Name</source>
+        <target>Ad</target>
+      </trans-unit>
+      <trans-unit id="s95a75a2392af5780">
+        <source>Last Name</source>
+        <target>Soyad</target>
+      </trans-unit>
+      <trans-unit id="s772528836550622c">
+        <source>Date of Employment</source>
+        <target>İşe Başlama Tarihi</target>
+      </trans-unit>
+      <trans-unit id="s53802e3f37d072a7">
+        <source>Date of Birth</source>
+        <target>Doğum Tarihi</target>
+      </trans-unit>
+      <trans-unit id="sf1bc83d2509bafcf">
+        <source>Phone</source>
+        <target>Telefon</target>
+      </trans-unit>
+      <trans-unit id="sd1f44f1a8bc20e67">
+        <source>Email</source>
+        <target>E-posta</target>
+      </trans-unit>
+      <trans-unit id="s1e45a4d7635fbda7">
+        <source>Department</source>
+        <target>Departman</target>
+      </trans-unit>
+      <trans-unit id="sc1611c0558728a2a">
+        <source>Position</source>
+        <target>Pozisyon</target>
+      </trans-unit>
+      <trans-unit id="s8af61807443f32a4">
+        <source>Actions</source>
+        <target>Eylemler</target>
+      </trans-unit>
+      <trans-unit id="s8a9fa9684ba37683">
+        <source>Edit Employee</source>
+        <target>Çalışanı Düzenle</target>
+      </trans-unit>
+      <trans-unit id="s3ced410ef8850869">
+        <source>Select Department</source>
+        <target>Departman Seç</target>
+      </trans-unit>
+      <trans-unit id="s2c2b04f2561a1d4b">
+        <source>Analytics</source>
+        <target>Analitik</target>
+      </trans-unit>
+      <trans-unit id="s24aadbfb1b1a1a11">
+        <source>Tech</source>
+        <target>Teknoloji</target>
+      </trans-unit>
+      <trans-unit id="sd3b242173c2c4284">
+        <source>Select Position</source>
+        <target>Pozisyon Seç</target>
+      </trans-unit>
+      <trans-unit id="s7404d9208a486318">
+        <source>Junior</source>
+        <target>Genç</target>
+      </trans-unit>
+      <trans-unit id="sacc4d771f79ccced">
+        <source>Medior</source>
+        <target>Orta</target>
+      </trans-unit>
+      <trans-unit id="s8a37652cc28d3c55">
+        <source>Senior</source>
+        <target>Kıdemli</target>
+      </trans-unit>
+      <trans-unit id="s8b0432eecbd8b034">
+        <source>Update</source>
+        <target>Güncelle</target>
+      </trans-unit>
+      <trans-unit id="sf9aee319a006c9b4">
+        <source>Add</source>
+        <target>Ekle</target>
+      </trans-unit>
+      <trans-unit id="s37f9b032877e3af5">
+        <source>will be updated</source>
+        <target>güncellenecek</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
