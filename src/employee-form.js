@@ -195,7 +195,7 @@ class EmployeeForm extends LitElement {
     const errors = {};
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     const phoneRegex = /^\+?\d{10,15}$/;
-    const nameRegex = /^[A-Za-z\s]{2,50}$/;
+    const nameRegex = /^[A-Za-zÇçĞğİıÖöŞşÜü\s]{2,50}$/;
 
     if (!nameRegex.test(this.employee.firstName))
       errors.firstName = 'First name must be 2-50 letters';
